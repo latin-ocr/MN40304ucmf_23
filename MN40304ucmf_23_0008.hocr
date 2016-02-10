@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40304ucmf_23_0008.png"; bbox 0 0 2359 3352; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 185 518 1165 874">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 185 510 1165 874">
+     <span class='ocr_line' id='line_1_1' title="bbox 185 518 1165 874; baseline -0.022 -52"><span class='ocrx_word' id='word_1_1' title='bbox 185 525 720 874; x_wconf 76' lang='lat' dir='ltr'>Semid,</span> <span class='ocrx_word' id='word_1_2' title='bbox 790 518 1165 811; x_wconf 82' lang='lat' dir='ltr'>Seba</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 182 1451 1180 1732">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 110 1451 1180 1732">
+     <span class='ocr_line' id='line_1_2' title="bbox 182 1451 1180 1732; baseline -0.024 -3.75"><span class='ocrx_word' id='word_1_3' title='bbox 182 1451 1030 1732; x_wconf 77' lang='lat' dir='ltr'>Dissertatlo</span> <span class='ocrx_word' id='word_1_4' title='bbox 1174 1567 1180 1704; x_wconf 66' lang='lat' dir='ltr'><em>A</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 190 1899 1137 2264">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 190 1899 1137 2264">
+     <span class='ocr_line' id='line_1_3' title="bbox 190 1899 1137 2264; baseline -0.012 -74"><span class='ocrx_word' id='word_1_5' title='bbox 190 1906 362 2190; x_wconf 83' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_6' title='bbox 416 1899 1137 2264; x_wconf 76' lang='lat' dir='ltr'>baptismo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1189 3352">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1189 3352">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1189 3352; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1189 3352; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 189 2827 1100 3170">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 189 2722 1100 3170">
+     <span class='ocr_line' id='line_1_5' title="bbox 189 2827 1100 3170; baseline -0.004 -62"><span class='ocrx_word' id='word_1_8' title='bbox 189 2840 652 3170; x_wconf 76' lang='lat' dir='ltr'>lenae,</span> <span class='ocrx_word' id='word_1_9' title='bbox 734 2827 1100 3106; x_wconf 77' lang='lat'>1737</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
